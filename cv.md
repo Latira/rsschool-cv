@@ -25,5 +25,6 @@ Starting my career as a front-end developer, studying on the PC-Skull JS / FE Pr
 
 
 ## Education
+BNTU, Faculty of Energy Construction, construction engineer
 
 ## Language
