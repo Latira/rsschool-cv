@@ -3,6 +3,7 @@ Minsk, Belarus
 
 ## Contacts
 [Github](https://github.com/Latira)
+
 [Discord](https://discordapp.com/users/966043816647884880/)
 
 ## About me
@@ -33,7 +34,6 @@ function nthFibo(n) {
 ```
 
 ## Courses
-* 2023 
 * 2022 RS School Course «JavaScript/Front-end» (in progress)
 * 2021 Project management and business analysis in IBA Institute
 * 2021 Basics of Python programming in IBA Institute
